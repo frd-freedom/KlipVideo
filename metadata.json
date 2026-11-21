@@ -1,0 +1,6 @@
+{
+  "name": "Kodeklip",
+  "description": "Studio generator video musik lirik kode dan edit teks ke video otomatis berbasis AI dengan sinkronisasi ketukan musik untuk konten media sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
